@@ -9,7 +9,7 @@ Space Bubble Shooter is a game developed using Scratch programming language. I c
 - [Gameplay Video](gameplay_video.mp4)
  
 ## Usage
-To get started with the game tutorial, download the PDF and follow the instructions (Written in বাংলা). You can also watch the gameplay video to get a visual understanding of how the game works.
+To get started with the game tutorial, download the PDF and follow the instructions (<i>Written in বাংলা</i>). You can also watch the gameplay video to get a visual understanding of how the game works.
 ## Sponsors
 [![bdOSN](sponsor's/bdosn.png)](https://bdosn.org/)
 
