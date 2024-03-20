@@ -1,0 +1,24 @@
+= scratch-programming-presentation-manual =
+
+- Introduction to Scratch: What is Scratch and how does it work?
+- Creating your first project: How to create a simple animation or game using Scratch
+- Sprites and Backdrops: How to add and manipulate different characters and backgrounds
+- Motion and Events: How to create movement and interaction using blocks
+- Loops and Conditions: How to use loops and conditional statements to create more complex programs
+- Sensing and Variables: How to use sensors and variables to make programs react to user input
+- Sound and Music: How to add audio to your Scratch projects
+- Creating Games: How to create different types of games using Scratch
+- Sharing and Remixing: How to share your Scratch projects and remix other people's projects
+- Introduction to Scratch programming
+- Understanding the Scratch interface
+- Basic concepts of Scratch programming, such as sprites, scripts, and events
+- Creating a basic game in Scratch
+- Adding movement to your sprites
+- Working with variables and operators
+- Creating interactive elements using input from users
+- Adding sound and music to your project
+- Using loops and conditionals to make your program more efficient
+- Understanding debugging and troubleshooting in Scratch
+- Advanced concepts in Scratch, such as cloning and custom blocks
+- Creating a project from scratch
+- Sharing your project with others
