@@ -1,4 +1,4 @@
-= scratch-programming-presentation-manual =
+=== scratch-programming-presentation-manual ===
 
 - Introduction to Scratch: What is Scratch and how does it work?
 - Creating your first project: How to create a simple animation or game using Scratch
