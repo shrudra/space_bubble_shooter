@@ -2,7 +2,7 @@
 Welcome to the Space Bubble Shooter repository! This repository contains a game tutorial written in PDF format and a video recording (MP4) showcasing the gameplay. 
 
 ## About
-Space Bubble Shooter is a game developed using Scratch programming. I created this repository to help my students who want to learn Scratch. The game tutorial in the PDF provides step-by-step instructions on how to create the game using Scratch.
+Space Bubble Shooter is a game developed using Scratch. I created this repository to help my students who want to learn Scratch. The game tutorial in the PDF provides step-by-step instructions on how to create the game using Scratch.
 
 ## Contents
 - [Game Tutorial PDF](game_in_scratch_part_01.pdf)
