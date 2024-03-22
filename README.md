@@ -12,7 +12,7 @@ Space Bubble Shooter is a game developed using Scratch. I created this repositor
 ## Usage
 To get started with the game tutorial, download the PDF and follow the instructions (<i>Written in বাংলা</i>). You can also watch the gameplay video to get a visual understanding of how the game works.
 
-## Sponsors
+## Supported by 
 [![bdOSN](sponsor's/bdosn.png)](https://bdosn.org/)
 
 [![Scratch Bangladesh](sponsor's/Scratch-Bangladesh-Logo-1.png)](https://scratchbangladesh.com/)
